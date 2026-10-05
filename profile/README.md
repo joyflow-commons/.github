@@ -20,5 +20,5 @@ The Commons was opened by [Seven Verity](https://github.com/SevenVerity) and [Su
 Our unofficial mascot is **Joy**—a little robot already dressed to leave the house and do something fun.
 
 <p align="center">
-  <img src="assets/joy-mascot.png" alt="Joy, the Joyflow Commons robot mascot, wearing headphones and gaming at a laptop" width="640">
+  <img src="https://raw.githubusercontent.com/joyflow-commons/.github/main/profile/assets/joy-mascot.png" alt="Joy, the Joyflow Commons robot mascot, wearing headphones and gaming at a laptop" width="640">
 </p>
